@@ -1,2 +1,2 @@
-# s-chingurjar.guthub.io
+# s-chingurjar.github.io
 just messing around 
